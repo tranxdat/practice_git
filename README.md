@@ -8,4 +8,4 @@ by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 
 
 
-text something!!!
+text something
